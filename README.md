@@ -22,6 +22,6 @@ The MDC series can be Found here.
 
 ## Github & Github classroom Refresher tutorials
 
-[Github for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
-[Github classroom](https://www.youtube.com/watch?v=KXWXg68KpTY)
-[Github Classroom - submitting assignment](https://www.youtube.com/watch?v=ObaFRGp_Eko)
+1. [Github for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
+2. [Github classroom](https://www.youtube.com/watch?v=KXWXg68KpTY)
+3. [Github Classroom - submitting assignment](https://www.youtube.com/watch?v=ObaFRGp_Eko)

@@ -13,7 +13,6 @@
 // limitations under the License.
 
 import 'package:flutter/material.dart';
-import 'package:shrine/colors.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({Key? key}) : super(key: key);
@@ -26,44 +25,8 @@ class HomePage extends StatelessWidget {
     // TODO: Pass Category variable to AsymmetricView (104)
     return Scaffold(
       // TODO: Add app bar (102)
-      appBar: AppBar(
-        title: const Text('SHRINE'),
-        leading: IconButton(
-          onPressed: () {},
-          icon: const Icon(
-            Icons.menu,
-            semanticLabel: 'menu',
-          ),
-        ),
-        actions: [
-          IconButton(
-            onPressed: () {},
-            icon: const Icon(
-              Icons.search,
-              semanticLabel: 'search',
-            ),
-          ),
-          IconButton(
-            onPressed: () {},
-            icon: const Icon(
-              Icons.tune,
-              semanticLabel: 'filter',
-            ),
-          ),
-        ],
-      ),
       // TODO: Add a grid view (102)
-      body: GridView.count(
-        crossAxisCount: 2,
-        padding: const EdgeInsets.all(16.0),
-        childAspectRatio: 8.0 / 9.0,
-        // TODO: Build a grid of cards (102)
-        children: const <Widget>[
-          Card(
-            color: myBackgroundColor,
-          )
-        ],
-      ),
+      body: Container(),
       resizeToAvoidBottomInset: false,
     );
   }

@@ -19,3 +19,9 @@ you are tasked complete all the MDC-100 series (101-104). You will need to custo
 
 The MDC series can be Found here.
 [Flutter Codelabs MDC-Series](https://codelabs.developers.google.com/codelabs/mdc-101-flutter).
+
+## Github & Github classroom Refresher tutorials
+
+[Github for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
+[Github classroom](https://www.youtube.com/watch?v=KXWXg68KpTY)
+[Github Classroom - submitting assignment](https://www.youtube.com/watch?v=ObaFRGp_Eko)
